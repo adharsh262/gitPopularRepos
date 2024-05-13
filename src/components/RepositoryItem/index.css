@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.unorderedListCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  justify-content: flex-start;
+}
+.star {
+  width: 40px;
+}
+.headCard {
+  color: #e73959;
+  font-size: 20px;
+}
+.cardAvatar {
+  width: 20px;
+}
+.paraCard {
+  color: #1e293b;
+}
+.listItemCard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  align-self: flex-start;
+}
+.listItem1 {
+  background-color: #f8f8ff;
+  border-radius: 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  width: 250px;
+}
+.cardAvatarMain {
+  width: 100px;
+}
